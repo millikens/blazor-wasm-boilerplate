@@ -9,7 +9,7 @@
 # Blazor WebAssembly Boilerplate 
 Built with .NET 6.0 and the goodness of MudBlazor Component Library. Incorporates the most essential Packages your projects will ever need. Follows Clean Architecture Principles.
 
-## This is cloned for ease of maintnence.
+## This is cloned for ease of maintnence, etc.
 
 ## Goals
 
